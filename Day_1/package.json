@@ -1,0 +1,17 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "Day 1: Getting Started with Node.js - 30-Day Coding Challenge",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node server.js",
+    "hello": "node hello.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "learning"
+  ],
+  "author": "",
+  "license": "ISC"
+}
